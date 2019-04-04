@@ -1,0 +1,3 @@
+[submodule "irrigation-serv"]
+	path = irrigation-serv
+	url = https://github.com/STcraft/irrigation-serv
